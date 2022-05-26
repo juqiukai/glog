@@ -1,4 +1,4 @@
-module odds.com/glog
+module github.com/juqiukai/glog
 
 go 1.18
 
